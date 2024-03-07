@@ -25,12 +25,6 @@
 #公共CDN
 @@||bootcdn.net^$important
 
-#优酷视频播放屏蔽
-@@||valipl.cp31.ott.cibntv.net^$domain=v.youku.com
-
-#CSDN个人文章屏蔽
-@@||arms-retcode.aliyuncs.com^$domain=mp.csdn.net
-
 
 !-------------黑名单--------------------
 
