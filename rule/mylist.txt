@@ -22,6 +22,8 @@
 #个推
 @@||sdk.open.talk.gepush.com^$important
 
+#B站评论区显示修复
+@@||www.bilibili.com^document
 
 #公共CDN
 @@||bootcdn.net^$important
@@ -142,7 +144,6 @@
 @@||cm.jd.com^$important
 @@||s.deepl.com^$important
 @@||360.cn^$important
-@@||www.bilibili.com^$important
 @@||wgo.mmstat.com^$important
 @@||app-monitor.ele.me^$important
 @@||hdslb.com
