@@ -23,7 +23,7 @@
 @@||sdk.open.talk.gepush.com^$important
 
 #B站评论区显示修复
-@@||www.bilibili.com^document
+@@||www.bilibili.com^$document
 
 #公共CDN
 @@||bootcdn.net^$important
