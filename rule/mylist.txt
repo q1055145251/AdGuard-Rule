@@ -22,8 +22,17 @@
 #个推
 @@||sdk.open.talk.gepush.com^$important
 
+
 #公共CDN
 @@||bootcdn.net^$important
+
+!-------------APP----------------------
+#有道会员
+@@||youdao.com^$app=com.youdao.dict
+
+#bilibili重发放行
+@@||dataflow.biliapi.com^$app=tv.danmaku.bili
+@@||bilibili.com^$app=tv.danmaku.bili
 
 
 !-------------黑名单--------------------
