@@ -55,10 +55,10 @@
 ||sentry.d.xiaomi.net^$important
 
 #夸克
-@@||quark.cn^$important
+#@@||quark.cn^$important
 
 #涉及部分UC系登陆、扫码验证等
-@@||uc.cn^$important
+#@@||uc.cn^$important
 
 # ------------AdGuard Home放行-------------------
 @@||www.google-analytics.com^$important
