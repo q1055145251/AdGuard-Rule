@@ -1,4 +1,4 @@
-# Update time: 2024-03-27 20:23:15
+# Update time: 2024-03-28 08:55:35
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -106,6 +106,8 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -114,11 +116,15 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
+||rgfftupf.
 ||adservice.google.
+||counter*.stat.ovh^
 ||host*.carl-ras.dk^
+||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
+||prebid-*.rubiconproject.com^
 ||sgtm.fashionunited.
 ||lt*.tritondigital.com^
 ||partner.superbahisaffiliates*.com^
@@ -209,6 +215,7 @@ analytics-*.aasaam.com
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
+||fxhpaoxqyajvmdg.
 ||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
 ||tw*.netcore.co.in^
@@ -308,8 +315,6 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -560,19 +565,14 @@ analytics-*.aasaam.com
 ||gads*z.com^
 ||analytics.*.sky.com^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
+||centent.streamp1ay.
+||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||rgfftupf.
-@@||cdn*.porn300.com^
-||gamenguide.com*adbk
-||counter*.stat.ovh^
-||centent.streamp1ay.
-||ads.livetv*.me^
-||142.91.159.
-||fxhpaoxqyajvmdg.
 ||spryptvqguhpwt^
-||prebid-*.rubiconproject.com^
+@@||cdn*.porn300.com^
 ||cintent.streanplay.
 Banner468x60
