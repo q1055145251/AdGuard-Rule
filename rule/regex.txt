@@ -1,4 +1,4 @@
-# Update time: 2024-03-30 20:20:11
+# Update time: 2024-03-31 09:00:50
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -48,6 +48,7 @@
 # 每12小时同步一次、如有误杀、请手动解除
 
 ||report.*.qq.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -69,7 +70,6 @@
 ||irs01.
 ||saxs.sina.
 ||adsame.
-||onetrust.
 <head>
 <body>
 <!doctype html>
@@ -90,6 +90,7 @@
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adi*.cnool.net^
@@ -110,6 +111,8 @@
 ||ky891.oss-*.aliyuncs.com^
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
+||ifengad.*.ifeng.com^
+||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -218,7 +221,6 @@ analytics-*.aasaam.com
 ||stats-*.p2pnow.ru^
 ||admulti.
 ||eum*.instana.io^
-||tnc16-*.byteoversea.com^
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
@@ -243,6 +245,7 @@ analytics-*.aasaam.com
 ||metrics*.fitanalytics.com^
 ||eclog*-*.cafe24.com^
 ||host*.polaroid.com^
+||datacollector-*.dt.dbankcloud.cn^
 ||s*.skencituer.com^
 ||underclick.
 ||imp-*.jampp.com^
@@ -439,7 +442,6 @@ analytics-*.aasaam.com
 ||www.xxmh*.com^
 ||ajx*.online^
 ||cas.*.criteo.com^
-||datacollector-*.dt.dbankcloud.cn^
 ||n*adserv.com^
 ||apple.com-*.live^
 ||zbc6hy*.live^
@@ -465,7 +467,6 @@ analytics-*.aasaam.com
 ||display-ad-*.kgslb.com^
 ||bj1*.online^
 ||ac*.pingguolv.com^
-||at*.doubanio.com^
 ||api*.batmobil.net^
 ||collector-*.px-client.net^
 ||ej1*.online^
@@ -496,7 +497,6 @@ analytics-*.aasaam.com
 ||d*.wanzhuang.com^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
-||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||toujing*.top^
 ||p26.gejulm*.com^
