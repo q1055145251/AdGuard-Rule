@@ -1,4 +1,4 @@
-# Update time: 2024-06-02 20:23:25
+# Update time: 2024-06-03 09:01:42
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -115,33 +115,33 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-                    return;
+<script>
+            pageOptions
+    xhr.send();
             } else {
+h1 {
+	}
         loadFeed(...getLoadFeedArguments());
     function getLoadFeedArguments() {
-        ];
                 arguments.push(this[possibleArguments[i]]);
-    }
-        return arguments;
-<script>
+        }
 };
-            pageOptions
                 }
                 console.log(JSON.parse(xhr.responseText))
 <style>
             2024 Copyright.  All Rights Reserved.
+        ];
     Privacy Policy
 			Buy this domain.
-    xhr.send();
+    }
+                    return;
     };
-h1 {
-	}
     <script>
 <!DOCTYPE html>
-        }
 body {
                 console.log('There was a problem with the request.');
             }
+        return arguments;
 }
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
@@ -250,7 +250,6 @@ analytics-*.aasaam.com
 ||videoclick.
 ||stats-*.p2pnow.ru^
 ||admulti.
-||tnc16-*.byteoversea.com^
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
@@ -302,7 +301,6 @@ analytics-*.aasaam.com
 ||adimg*.search.naver.net^
 ||log*.aliyuncs.com^
 ||icq-window.
-||geoloc*.geovisite.ovh^
 ||icqwindow.
 ||cnt.winporn.
 ||t*.zcvh.net^
@@ -321,14 +319,11 @@ analytics-*.aasaam.com
 ||maas-*.phunware.com^
 ||rotaban.
 ||hstats*.hepsiburada.com^
-||geoloc*.geo20120530.com^
 ||cnt.proporn.
 ||teasernet.
 ||popuptraf.
 ||host*.rvshare.com^
-||events-*.op.hicloud.com^
 ||158.247.208.
-||geoloc*.geostats.ovh^
 ||ssp*.rtb.beeline.ru^
 ||stats*.videonow.ru^
 ||pixel.archive.
@@ -342,7 +337,6 @@ analytics-*.aasaam.com
 ||ad.*.doubleclick.net^
 ||snowplow-collector-*.amazonaws.com^
 ||ms*.applvn.com^
-||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||tracking-*.trnox.com^
 ||www.fuze-hill*.xyz^
 ||parkdomainreal*.site^
@@ -356,6 +350,7 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||iad-*.braze.com^
+||tnc16-*.byteoversea.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -526,6 +521,7 @@ analytics-*.aasaam.com
 ||ads.*.kugou.com^
 ||api-*.bidmachine.io^
 ||dj1*.online^
+||geoloc*.geovisite.ovh^
 ||ad.*.xiaomi.com^
 ||adcs-*.myappsget.com^
 ||ads*.textra.me^
@@ -554,10 +550,12 @@ analytics-*.aasaam.com
 ||ads*.depositfiles.org^
 ||hads*s.com^
 ||api.*.hismarttv.com^
+||geoloc*.geo20120530.com^
 ||fp-*it*.fengkongcloud.com^
 ||aj3*.bid^
 ||ad-*.appacc.dbankedge.cn^
 ||aj1*.online^
+||events-*.op.hicloud.com^
 ||zbc6hye*.xyz^
 ||aff*.kolektiva.net^
 ||events*.cre.ma^
@@ -565,6 +563,7 @@ analytics-*.aasaam.com
 ||163487*.qmgmw.com^
 ||adx-*.dbankedge.cn^
 ||banner.*.tccapis.com^
+||geoloc*.geostats.ovh^
 ||tblog-*.kgslb.com^
 ||cdn-adn-*.rayjump.com^
 ||zahrvfbd*.xyz^
@@ -589,6 +588,7 @@ analytics-*.aasaam.com
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
 ||collector-*.tvsquared.com^
+||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||gtlpa*.com^
