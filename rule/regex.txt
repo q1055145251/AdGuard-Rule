@@ -1,4 +1,4 @@
-# Update time: 2024-06-22 09:00:42
+# Update time: 2024-06-22 20:24:08
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -77,9 +77,6 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
-<head>
-<body>
-<!doctype html>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||dm*.ppzuowen.com^
@@ -99,6 +96,7 @@
 ||ja*.gamersky.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
+||at*.doubanio.com^
 ||dm*.yxlady.com^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adi*.cnool.net^
@@ -117,6 +115,9 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+<head>
+<body>
+<!doctype html>
 <script>
             pageOptions
     xhr.send();
@@ -145,6 +146,9 @@ body {
             }
         return arguments;
 }
+||iad-*.braze.com^
+||ifengad.*.ifeng.com^
+||tnc16-*.byteoversea.com^
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||pixel*.production-public.tubi.io^
@@ -227,7 +231,6 @@ analytics-*.aasaam.com
 ||hostingcloud.*.wasm^
 ||medialand.
 ||track.*.roku.com^
-||device-metrics-*.amazon.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
 ||get-me-wow.
@@ -262,7 +265,6 @@ analytics-*.aasaam.com
 ||stats-*.p2pnow.ru^
 ||admulti.
 ||eum*.instana.io^
-||tnc16-*.byteoversea.com^
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
@@ -370,7 +372,6 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||iad-*.braze.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -518,7 +519,6 @@ analytics-*.aasaam.com
 ||display-ad-*.kgslb.com^
 ||bj1*.online^
 ||ac*.pingguolv.com^
-||at*.doubanio.com^
 ||api*.batmobil.net^
 ||collector-*.px-client.net^
 ||ej1*.online^
@@ -549,13 +549,13 @@ analytics-*.aasaam.com
 ||d*.wanzhuang.com^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
-||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||toujing*.top^
 ||p26.gejulm*.com^
 ||adservice.google.*^
 ||ad.kisstvshow.*^
 ||appanalysis*.banggood.com^
+||device-metrics-*.amazon.com^
 ||api*.batmobi.net^
 ||widgets.*.webengage.com^
 ||zabdybod*.club^
