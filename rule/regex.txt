@@ -1,4 +1,4 @@
-# Update time: 2024-06-26 20:27:50
+# Update time: 2024-06-27 09:02:19
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -85,14 +85,12 @@
 ||dm*.ppzuowen.com^
 ||uc*.atobo.com^
 ||impservice*.youdao.com^
-||d*.ruiwen.com^
 ||fanpingbi*.gaokao.com^
 ||txhfgwgkwt*.asia^
 ||dn*.ixinwei.com^
 728x90.jpg|
 ||iwanshang*.asia^
 ||ya*.dwstatic.com^
-||d*.xinshipu.com^
 ||fpb*.51edu.com^
 ||ja*.gamersky.com^
 ||static*.365inews.com^
@@ -117,34 +115,6 @@
 ||ky891.oss-*.aliyuncs.com^
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-                }
-                console.log(JSON.parse(xhr.responseText))
-<style>
-            2024 Copyright.  All Rights Reserved.
-        ];
-    Privacy Policy
-			Buy this domain.
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
-                console.log('There was a problem with the request.');
-            }
-        return arguments;
-}
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -153,11 +123,8 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||adservice.google.
-||counter*.stat.ovh^
 ||host*.carl-ras.dk^
-||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
@@ -252,10 +219,10 @@ analytics-*.aasaam.com
 ||videoclick.
 ||stats-*.p2pnow.ru^
 ||admulti.
+||tnc16-*.byteoversea.com^
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
-||fxhpaoxqyajvmdg.
 ||host*.rigbyandpeller.com^
 ||tw*.netcore.co.in^
 ||mapi-log.qoo*.jp^
@@ -352,8 +319,6 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
-||iad-*.braze.com^
-||tnc16-*.byteoversea.com^
 ||da.hornbach.*^
 ||appsflyer*.*^
 ||brucelead*.com^
@@ -456,7 +421,6 @@ analytics-*.aasaam.com
 ||sd.yhzzzs*.com^
 ||w*.*skwai.com^
 ||analytics-*-nfl.yinzcam.com^
-||collector-*.pxchk.net^
 ||ad*.on.cc^
 ||ads*.dfiles.ru^
 ||popadex-*.us-east-1.elb.amazonaws.com^
@@ -469,7 +433,6 @@ analytics-*.aasaam.com
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
 ||browser-intake-*-datadoghq.com^
-||collector-*.px-cdn.net^
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
 ||opnked*.xyz^
@@ -492,6 +455,7 @@ analytics-*.aasaam.com
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||ce-global-track-*.amazonaws.com^
+||d*.ruiwen.com^
 ||sense-*.tapdb.net^
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
@@ -592,7 +556,9 @@ analytics-*.aasaam.com
 ||aan.amazon.*^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
+||iad-*.braze.com^
 ||collector-*.tvsquared.com^
+||d*.xinshipu.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
@@ -617,14 +583,18 @@ analytics-*.aasaam.com
 ||flurry.agentportal-*.yahoodns.net^
 ||analytics.*.sky.com^
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
-||centent.streamp1ay.
-||142.91.159.
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||spryptvqguhpwt^
+||rgfftupf.
 @@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||counter*.stat.ovh^
+||centent.streamp1ay.
+||ads.livetv*.me^
+||142.91.159.
+||fxhpaoxqyajvmdg.
+||spryptvqguhpwt^
 ||cintent.streanplay.
 Banner468x60
