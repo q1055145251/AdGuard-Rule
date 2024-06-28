@@ -1,4 +1,4 @@
-# Update time: 2024-06-28 09:02:15
+# Update time: 2024-06-28 20:26:22
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -76,7 +76,6 @@
 ||irs01.
 ||saxs.sina.
 ||adsame.
-||onetrust.
 <head>
 <body>
 <!doctype html>
@@ -107,6 +106,7 @@
 ||impservice*.yodao.com^
 ||fpb1.chinacar.
 ||ax.*.ifeng.com^
+||onetrust.
 ||121.204.246.*.gif
 ||js*.abolezi.com^
 ||acookie.*.gif?
@@ -155,13 +155,13 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||adservice.google.
 ||host*.carl-ras.dk^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
 ||prebid-*.rubiconproject.com^
+||faro-collector-prod-*.grafana.net^
 ||sgtm.fashionunited.
 ||lt*.tritondigital.com^
 ||partner.superbahisaffiliates*.com^
@@ -176,6 +176,7 @@ analytics-*.aasaam.com
 ||flipflapflo.
 ||gonews*.net^
 ||real*traf.ru^
+||f-log-*.grammarly.io^
 ||wa.gmx.
 ||mon*-*.tiktokv.us^
 ||pxl-*.ozone.ru^
@@ -192,6 +193,7 @@ analytics-*.aasaam.com
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
 ||mcs-va-*.tiktokv.com^
+||events-api*.outfit7.com^
 ||linkexchange.
 ||pangolin*.sgsnssdk.com^
 ||block.s*block.com^
@@ -202,6 +204,7 @@ analytics-*.aasaam.com
 ||ad*.tmgrup.com.tr^
 ||goodadvert.
 ||rtlog*.tiktokv.com^
+||flurry.agentportal.*.yahoodns.net^
 ||logservice-*.platform.dbankcloud.cn^
 ||stat*.1internet.tv^
 ||rb*.design.ru^
@@ -228,6 +231,7 @@ analytics-*.aasaam.com
 ||cnt.tubeon.
 ||videoclik.
 ||poshalim.
+||events*.cre.ma^
 ||pixel-*.rubiconproject.com^
 ||track.tiara.
 ||orbit*.lun.ua^
@@ -252,11 +256,12 @@ analytics-*.aasaam.com
 ||videoclick.
 ||stats-*.p2pnow.ru^
 ||admulti.
+||eum*.instana.io^
 ||tnc16-*.byteoversea.com^
 ||piwik.*.com.vn^
 ||mf*.advantage.as^
 ||button.blogs.yandex.
-||fxhpaoxqyajvmdg.
+||flurry.agentportal-*.yahoodns.net^
 ||host*.rigbyandpeller.com^
 ||tw*.netcore.co.in^
 ||mapi-log.qoo*.jp^
@@ -326,6 +331,7 @@ analytics-*.aasaam.com
 ||hstats*.hepsiburada.com^
 ||geoloc*.geo20120530.com^
 ||cnt.proporn.
+||fp-*it*.fengkongcloud.com^
 ||teasernet.
 ||popuptraf.
 ||host*.rvshare.com^
@@ -339,6 +345,7 @@ analytics-*.aasaam.com
 ||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
+||logger-*.dailymotion.com^
 ||iad-*.appboy.com^
 ||minitds-*.info^
 ||jtbo*.nqxvevk.cn^
@@ -465,7 +472,6 @@ analytics-*.aasaam.com
 ||ads*.dfiles.ru^
 ||popadex-*.us-east-1.elb.amazonaws.com^
 ||log*-applog-*.tiktokv.com^
-||faro-collector-prod-*.grafana.net^
 ||analytics-rollout-*.amazonaws.com^
 ||api-*.hismarttv.com^
 ||datacollect*.abtasty.com^
@@ -480,7 +486,6 @@ analytics-*.aasaam.com
 ||ajx*.online^
 ||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
-||f-log-*.grammarly.io^
 ||n*adserv.com^
 ||apple.com-*.live^
 ||zbc6hy*.live^
@@ -506,7 +511,6 @@ analytics-*.aasaam.com
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
 ||c*hit.zerkalo.io^
-||events-api*.outfit7.com^
 ||display-ad-*.kgslb.com^
 ||bj1*.online^
 ||ac*.pingguolv.com^
@@ -525,7 +529,6 @@ analytics-*.aasaam.com
 ||ap*.jj20.com^
 ||js.*2023*.xyz^
 ||ac*.faxingchina.com^
-||flurry.agentportal.*.yahoodns.net^
 ||ads.*.kugou.com^
 ||api-*.bidmachine.io^
 ||dj1*.online^
@@ -557,13 +560,11 @@ analytics-*.aasaam.com
 ||ads*.depositfiles.org^
 ||hads*s.com^
 ||api.*.hismarttv.com^
-||fp-*it*.fengkongcloud.com^
 ||aj3*.bid^
 ||ad-*.appacc.dbankedge.cn^
 ||aj1*.online^
 ||zbc6hye*.xyz^
 ||aff*.kolektiva.net^
-||events*.cre.ma^
 ||promo-*.vercel.app^
 ||163487*.qmgmw.com^
 ||adx-*.dbankedge.cn^
@@ -581,7 +582,6 @@ analytics-*.aasaam.com
 ||datacollector-*.dt.hicloud.com^
 ||n*adserv.xyz^
 ||fls-*.amazon.com^
-||logger-*.dailymotion.com^
 ||adsfilebssdlbig.*.kugou.com^
 ||bdlm*.hc360.com^
 ||ad*.nexage.com^
@@ -599,7 +599,6 @@ analytics-*.aasaam.com
 ||batchlogging*-eu.truecaller.com^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
-||eum*.instana.io^
 ||ads*-normal-lq.zijieapi.com^
 ||fads*s.com^
 ||ads-dmp-collect.*.karrotmarket.com^
@@ -612,19 +611,20 @@ analytics-*.aasaam.com
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
 ||collector*.ex.co^
-||flurry.agentportal-*.yahoodns.net^
 ||analytics.*.sky.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
 @@||adobeid-*.services.adobe.com^
 ||fapnado.*.php|
 ||itechpost.com*adbk
+||rgfftupf.
 @@||cdn*.porn300.com^
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
 ||centent.streamp1ay.
 ||ads.livetv*.me^
 ||142.91.159.
+||fxhpaoxqyajvmdg.
 ||spryptvqguhpwt^
 ||cintent.streanplay.
 Banner468x60
