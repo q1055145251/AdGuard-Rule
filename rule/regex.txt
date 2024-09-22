@@ -1,4 +1,4 @@
-# Update time: 2024-09-21 20:27:19
+# Update time: 2024-09-22 09:17:01
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -91,14 +91,12 @@
 ||fpb*.51edu.com^
 ||static*.365inews.com^
 ||ysdm*.ys137.com.cn^
-||ac*.pingguolv.com^
 ||107.167.22.*.gif
 ||38.33.15.*.gif
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
 ||gcw*.2liang.cn^
 ||impservice*.yodao.com^
-||ac*.faxingchina.com^
 ||fpb1.chinacar.
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
@@ -113,6 +111,34 @@
 <head>
 <body>
 <!doctype html>
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+                }
+                console.log(JSON.parse(xhr.responseText))
+<style>
+            2024 Copyright.  All Rights Reserved.
+        ];
+    Privacy Policy
+			Buy this domain.
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -324,7 +350,6 @@ analytics-*.aasaam.com
 ||ad.*.doubleclick.net^
 ||snowplow-collector-*.amazonaws.com^
 ||ms*.applvn.com^
-||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||tracking-*.trnox.com^
 ||www.fuze-hill*.xyz^
@@ -337,7 +362,6 @@ analytics-*.aasaam.com
 ||bms*.adjarabet.com^
 ||pixel-*.convertagain.net^
 ||collector.xhamster*.
-||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
 ||imgpfx.arenavision.
@@ -445,6 +469,7 @@ analytics-*.aasaam.com
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
+||iad-*.braze.com^
 ||pangolin-sdk-toutiao*.com^
 ||ping*.qq.com^
 ||clog*.yuanfudao.com^
@@ -494,6 +519,7 @@ analytics-*.aasaam.com
 ||fads*z.com^
 ||c*hit.zerkalo.io^
 ||display-ad-*.kgslb.com^
+||ac*.pingguolv.com^
 ||api*.batmobil.net^
 ||ej1*.online^
 ||mistat.*.xiaomi.com^
@@ -506,6 +532,7 @@ analytics-*.aasaam.com
 ||ads*.bojijulebu.com^
 ||ap*.jj20.com^
 ||js.*2023*.xyz^
+||ac*.faxingchina.com^
 ||ads.*.kugou.com^
 ||api-*.bidmachine.io^
 ||dj1*.online^
@@ -584,6 +611,7 @@ analytics-*.aasaam.com
 ||ap*.pl520.com^
 ||firebaselogging-*.googleapis.com^
 ||gads*z.com^
+||collector*.ex.co^
 ||analytics.*.sky.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
