@@ -1,4 +1,4 @@
-# Update time: 2024-12-18 09:16:24
+# Update time: 2024-12-18 20:33:07
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,6 +55,7 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -75,7 +76,6 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||onetrust.
 <head>
 <body>
 <!doctype html>
@@ -169,6 +169,7 @@ analytics-*.aasaam.com
 ||gonews*.net^
 ||real*traf.ru^
 ||mssdk-*.tiktokw.us^
+||f-log-*.grammarly.io^
 ||wa.gmx.
 ||pxl-*.ozone.ru^
 ||mon*-*.tiktokv.us^
@@ -254,6 +255,7 @@ analytics-*.aasaam.com
 ||stats-*.p2pnow.ru^
 ||broredir*s.site^
 ||admulti.
+||eum*.instana.io^
 ||report.*.gbqofs.io^
 ||tnc16-*.byteoversea.com^
 ||piwik.*.com.vn^
@@ -504,7 +506,6 @@ analytics-*.aasaam.com
 ||ajx*.online^
 ||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
-||f-log-*.grammarly.io^
 ||n*adserv.com^
 ||apple.com-*.live^
 ||zbc6hy*.live^
@@ -617,7 +618,6 @@ analytics-*.aasaam.com
 ||batchlogging*-eu.truecaller.com^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
-||eum*.instana.io^
 ||ads*-normal-lq.zijieapi.com^
 ||fads*s.com^
 ||ads-dmp-collect.*.karrotmarket.com^
