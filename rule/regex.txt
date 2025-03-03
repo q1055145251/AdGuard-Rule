@@ -1,4 +1,4 @@
-# Update time: 2025-03-03 09:17:39
+# Update time: 2025-03-03 20:33:16
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,6 +55,7 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
+||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -75,7 +76,6 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||onetrust.
 <head>
 <body>
 <!doctype html>
@@ -107,8 +107,6 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-||imgpfx.arenavision.
-||player-feedback*.glomex.*^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
@@ -377,6 +375,8 @@ analytics-*.aasaam.com
 ||collector.xhamster*.
 ||poptraf.
 ||v*.sitecounter.site^
+||imgpfx.arenavision.
+||player-feedback*.glomex.*^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
