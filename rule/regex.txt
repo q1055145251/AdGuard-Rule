@@ -1,4 +1,4 @@
-# Update time: 2025-03-14 20:32:14
+# Update time: 2025-03-15 09:15:27
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -76,16 +76,12 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
-<head>
-<body>
-<!doctype html>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
-||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -108,6 +104,9 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+<head>
+<body>
+<!doctype html>
 <script>
             pageOptions
     xhr.send();
@@ -138,9 +137,6 @@ body {
 }
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-||us.*.qwadro.com^
-||iad-*.braze.com^
-||tnc16-*.byteoversea.com^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -243,6 +239,8 @@ body {
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
+||us.*.qwadro.com^
+||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -275,13 +273,13 @@ body {
 ||ads*.production-public.tubi.io^
 ||ads-*-nfl.yinzcam.com^
 ||iptracker-lb-*.amazonaws.com^
+||ts-p2p*pull*com^
 ||ali-bj-pcdn-*.biliapi.net^
 ||ce-global-track-*.amazonaws.com^
 ||device-metrics-us*.amazon.com^
 ||ana*.inews24.com^
 ||ads*-normal-*.zijieapi.com^
 ||api*.bidmachine.io^
-||t*.playdigo.live^
 ||geotargetly-api-*.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
@@ -334,6 +332,7 @@ body {
 ||cdn-adn-*.rayjump.com^
 ||zahrvfbd*.xyz^
 ||adx-*.op.dbankcloud.com.edgekey.net^
+||p2pup*.gamedl.qq.com^
 ||zcchyr*.xyz^
 ||zaqlovh*.xyz^
 ||datacollector-*.dt.hicloud.com^
@@ -353,6 +352,7 @@ body {
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
 ||auth-*.hismarttv.com^
+||ws-p2p*pull*com^
 ||batchlogging*-eu.truecaller.com^
 ||stats-*.p2pnow.ru^
 ||yhsfsdv*.com^
@@ -383,6 +383,7 @@ body {
 ||host*.ncoi.nl^
 ||lively-collect-elb-*.amazonaws.com^
 ||analytics-rollout-*.amazonaws.com^
+||qn-*pcdn.cdn.huya.com^
 ||zazgiyoh*.world^
 ||zazgbqg*.xyz^
 ||browser-intake-*-datadoghq.com^
@@ -394,6 +395,7 @@ body {
 ||datacollector-*.dt.dbankcloud.cn^
 ||n*adserv.com^
 ||apple.com-*.live^
+||ks-p2p*pull*com^
 ||batchlogging*-noneu.truecaller.com^
 ||apple-*.le.com^
 ||imp-*.jampp.com^
@@ -420,6 +422,7 @@ body {
 ||metric*.rediff.com^
 ||ad-*.amazonaws.com^
 ||ads*-normal*.zijieapi.com^
+||xy-*pcdn.msstatic.com^
 ||ac*.faxingchina.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
@@ -455,15 +458,20 @@ body {
 ||geoloc*.geostats.ovh^
 ||ssp*.rtb.beeline.ru^
 ||log-*.zadn.vn^
+||qn-*pcdn.cdn.msstatic.com^
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
+||bdlm*.hc360.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
+||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
+||hw-p2p*pull*com^
 ||gtlpa*.com^
+||ali-p2p*pull*com^
 ||log*-normal-lq.toutiaoapi.com^
 ||quangcao-*.epicdn.me^
 ||aem-collector-*.kgslb.com^
@@ -529,6 +537,7 @@ analytics-*.aasaam.com
 ||cnt.nuvid.
 ||servo-report.dvdfab.
 ||trk*.vidible.tv^
+||t*.playdigo.live^
 ||pop-under.
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
