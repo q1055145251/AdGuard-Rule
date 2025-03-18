@@ -1,4 +1,4 @@
-# Update time: 2025-03-17 20:34:26
+# Update time: 2025-03-18 09:17:06
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -76,9 +76,6 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
-<head>
-<body>
-<!doctype html>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
@@ -108,6 +105,9 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+<body>
+<!doctype html>
+<head>
 <script>
             pageOptions
     xhr.send();
@@ -138,8 +138,6 @@ body {
 }
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-||us.*.qwadro.com^
-||tnc16-*.byteoversea.com^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -242,6 +240,9 @@ body {
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
+||us.*.qwadro.com^
+||iad-*.braze.com^
+||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -261,7 +262,6 @@ body {
 ||mon-*.lemon8-app.us^
 ||mon-*.lemon8-app.com^
 ||log*-misc-lf.amemv.com^
-||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||opnked*.xyz^
 ||ajx*.online^
@@ -281,7 +281,6 @@ body {
 ||ana*.inews24.com^
 ||ads*-normal-*.zijieapi.com^
 ||api*.bidmachine.io^
-||t*.playdigo.live^
 ||geotargetly-api-*.com^
 ||mcs-va-*.tiktokv.com^
 ||events-api*.outfit7.com^
@@ -300,7 +299,6 @@ body {
 ||logservice-*.platform.dbankcloud.cn^
 ||clickstream-*.homedepot.com^
 ||log*-normal-useast1a.lemon8-app.com^
-||stat*.1internet.tv^
 ||dj1*.online^
 ||log*.byteoversea.com^
 ||ad.*.xiaomi.com^
@@ -374,14 +372,12 @@ body {
 ||servo-report.keepstreams.*^
 ||pangolin-sdk-toutiao*.com^
 ||clog*.yuanfudao.com^
-||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||w*.*skwai.com^
 ||analytics-*-nfl.yinzcam.com^
 ||ad*.on.cc^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||rtlog*.tiktokv.us^
-||st-*.dynamicyield.com^
 ||host*.ncoi.nl^
 ||lively-collect-elb-*.amazonaws.com^
 ||analytics-rollout-*.amazonaws.com^
@@ -392,7 +388,6 @@ body {
 ||ads*.zijieapi.com^
 ||host*.polaroid.com^
 ||www.xxmh*.com^
-||staging-*.ispot.tv^
 ||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||n*adserv.com^
@@ -458,7 +453,6 @@ body {
 ||promo-*.vercel.app^
 ||banner.*.tccapis.com^
 ||geoloc*.geostats.ovh^
-||ssp*.rtb.beeline.ru^
 ||log-*.zadn.vn^
 ||qn-*pcdn.cdn.msstatic.com^
 ||js.*2023*.live^
@@ -467,7 +461,6 @@ body {
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
-||iad-*.braze.com^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
 ||hw-p2p*pull*com^
@@ -484,6 +477,7 @@ body {
 analytics-*.aasaam.com
 ||an.yandex.
 ||gtmdev.jabra.
+||creative*.bidease.com^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
@@ -496,6 +490,7 @@ analytics-*.aasaam.com
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
 ||v*-ad.video.yximgs.com^
+||st-*.dynamicyield.com^
 ||bondzgi*.
 ||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
@@ -513,9 +508,11 @@ analytics-*.aasaam.com
 ||www.fuze-sea*.xyz^
 ||metrics*.fitanalytics.com^
 ||edgetrksvc.ebay.
+||stats2.*.fdnames.com^
 ||stats.zone-telechargement.
 ||eclog*-*.cafe24.com^
 ||clk.rtpdn*.com^
+||staging-*.ispot.tv^
 ||flipflapflo.
 ||gonews*.net^
 ||real*traf.ru^
@@ -538,6 +535,7 @@ analytics-*.aasaam.com
 ||cnt.nuvid.
 ||servo-report.dvdfab.
 ||trk*.vidible.tv^
+||t*.playdigo.live^
 ||pop-under.
 ||sock*-goguardian.pusher.com^
 ||basvformu*.xyz^
@@ -566,6 +564,7 @@ analytics-*.aasaam.com
 ||adimg*.search.naver.net^
 ||log*.zijieapi.com^
 ||icq-window.
+||stat*.1internet.tv^
 ||icqwindow.
 ||rb*.design.ru^
 ||cnt.winporn.
@@ -610,6 +609,7 @@ analytics-*.aasaam.com
 ||poshalim.
 ||158.247.208.
 |load.gtm.
+||ssp*.rtb.beeline.ru^
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||track.tiara.
