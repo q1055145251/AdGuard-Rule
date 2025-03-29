@@ -1,4 +1,4 @@
-# Update time: 2025-03-29 09:17:20
+# Update time: 2025-03-29 20:30:14
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -302,6 +302,7 @@
 ||mcs-*.lemon8-app.com^
 ||cdn-adn-*.rayjump.com^
 ||zahrvfbd*.xyz^
+||stlog*-local.kakao.com^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||p2pup*.gamedl.qq.com^
 ||zcchyr*.xyz^
@@ -399,6 +400,7 @@
 ||geoloc*.geovisite.ovh^
 ||adcs-*.myappsget.com^
 ||mssdk*.capcutapi.com^
+||t*.zcvh.net^
 ||res*.pinpai8.cn^
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
@@ -542,7 +544,6 @@ analytics-*.aasaam.com
 ||st-n.ads*-adnow.com^
 ||cnt.winporn.
 ||logs*.smithsonian.museum^
-||t*.zcvh.net^
 ||ulog*.kwai-pro.com^
 ||bar*.shinobi.jp^
 ||counter*.freecounter.ovh^
@@ -586,7 +587,6 @@ analytics-*.aasaam.com
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||track.tiara.
-||stlog*-local.kakao.com^
 ||orbit*.lun.ua^
 ||popupclick.
 ||ad*.thisisgame.com^
@@ -651,31 +651,31 @@ rgmechanicsgames.com*VPN.exe
 ||fxhpaoxqyajvmdg.
 ||cintent.streanplay.
 Banner468x60
+                }
+                console.log(JSON.parse(xhr.responseText))
+        ];
 <script>
             pageOptions
     xhr.send();
+                    return;
             } else {
-h1 {
-	}
         loadFeed(...getLoadFeedArguments());
     function getLoadFeedArguments() {
+    <script>
                 arguments.push(this[possibleArguments[i]]);
         }
-};
-			Buy this domain. | More domains at Seo.Domains
-                }
-            2025 Copyright | All Rights Reserved.
-                console.log(JSON.parse(xhr.responseText))
-<style>
-        ];
-    Privacy Policy
-    }
-                    return;
-    };
-    <script>
-<!DOCTYPE html>
-body {
                 console.log('There was a problem with the request.');
             }
         return arguments;
+};
+    };
+h1 {
+	}
+            2025 Copyright | All Rights Reserved.
+<style>
+<!DOCTYPE html>
+    Privacy Policy
+body {
+    }
 }
+			Buy this domain. | More domains at Seo.Domains
