@@ -1,4 +1,4 @@
-# Update time: 2025-03-30 09:24:22
+# Update time: 2025-03-30 20:30:45
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -85,7 +85,6 @@
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
-||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -370,6 +369,7 @@ body {
 ||servo-report.keepstreams.*^
 ||pangolin-sdk-toutiao*.com^
 ||clog*.yuanfudao.com^
+||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||w*.*skwai.com^
 ||analytics-*-nfl.yinzcam.com^
@@ -388,7 +388,6 @@ body {
 ||ads*.zijieapi.com^
 ||host*.polaroid.com^
 ||www.xxmh*.com^
-||staging-*.ispot.tv^
 ||cas.*.criteo.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||n*adserv.com^
@@ -461,6 +460,7 @@ body {
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
+||bdlm*.hc360.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
@@ -480,7 +480,6 @@ body {
 analytics-*.aasaam.com
 ||an.yandex.
 ||gtmdev.jabra.
-||creative*.bidease.com^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
@@ -513,6 +512,7 @@ analytics-*.aasaam.com
 ||stats.zone-telechargement.
 ||eclog*-*.cafe24.com^
 ||clk.rtpdn*.com^
+||staging-*.ispot.tv^
 ||flipflapflo.
 ||gonews*.net^
 ||real*traf.ru^
