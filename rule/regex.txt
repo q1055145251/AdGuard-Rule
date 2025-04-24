@@ -1,4 +1,4 @@
-# Update time: 2025-04-24 09:21:06
+# Update time: 2025-04-24 20:36:21
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -82,7 +82,6 @@
 ||uc*.atobo.com^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
-||bdlm*.hc360.com^
 728x90.jpg|
 ||ya*.dwstatic.com^
 ||fpb*.51edu.com^
@@ -108,6 +107,34 @@
 <head>
 <body>
 <!doctype html>
+<script>
+            pageOptions
+    xhr.send();
+            } else {
+h1 {
+	}
+        loadFeed(...getLoadFeedArguments());
+    function getLoadFeedArguments() {
+                arguments.push(this[possibleArguments[i]]);
+        }
+};
+			Buy this domain. | More domains at Seo.Domains
+                }
+            2025 Copyright | All Rights Reserved.
+                console.log(JSON.parse(xhr.responseText))
+<style>
+        ];
+    Privacy Policy
+    }
+                    return;
+    };
+    <script>
+<!DOCTYPE html>
+body {
+                console.log('There was a problem with the request.');
+            }
+        return arguments;
+}
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -211,6 +238,8 @@
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
+||us.*.qwadro.com^
+||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -274,7 +303,6 @@
 ||ad.*.xiaomi.com^
 ||mon*-misc-lf.fqnovel.com^
 ||ads*.textra.me^
-||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
@@ -300,6 +328,7 @@
 ||mcs-*.lemon8-app.com^
 ||cdn-adn-*.rayjump.com^
 ||zahrvfbd*.xyz^
+||stlog*-local.kakao.com^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||p2pup*.gamedl.qq.com^
 ||zcchyr*.xyz^
@@ -340,6 +369,7 @@
 ||servo-report.keepstreams.*^
 ||pangolin-sdk-toutiao*.com^
 ||clog*.yuanfudao.com^
+||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||w*.*skwai.com^
@@ -399,6 +429,7 @@
 ||beacon-*.helpscout.net^
 ||adcs-*.myappsget.com^
 ||mssdk*.capcutapi.com^
+||t*.zcvh.net^
 ||res*.pinpai8.cn^
 ||zcchyw*.xyz^
 ||log*-misc-lq.amemv.com^
@@ -434,6 +465,7 @@
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
+||bdlm*.hc360.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
@@ -450,12 +482,10 @@
 ||aj2*.bid^
 ||analytics*.prezly.com^
 ||collector*.ex.co^
-||tnc16-*.byteoversea.com^
 ||adserver*.euroweeklynews.com^
 analytics-*.aasaam.com
 ||an.yandex.
 ||gtmdev.jabra.
-||creative*.bidease.com^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
@@ -544,7 +574,6 @@ analytics-*.aasaam.com
 ||st-n.ads*-adnow.com^
 ||cnt.winporn.
 ||logs*.smithsonian.museum^
-||t*.zcvh.net^
 ||ulog*.kwai-pro.com^
 ||bar*.shinobi.jp^
 ||counter*.freecounter.ovh^
@@ -588,7 +617,6 @@ analytics-*.aasaam.com
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||track.tiara.
-||stlog*-local.kakao.com^
 ||orbit*.lun.ua^
 ||popupclick.
 ||ad*.thisisgame.com^
