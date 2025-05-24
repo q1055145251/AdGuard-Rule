@@ -1,4 +1,4 @@
-# Update time: 2025-05-24 09:21:30
+# Update time: 2025-05-24 20:32:30
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -112,34 +112,40 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
-<script>
-            pageOptions
-    xhr.send();
-            } else {
-h1 {
-	}
-        loadFeed(...getLoadFeedArguments());
-    function getLoadFeedArguments() {
-                arguments.push(this[possibleArguments[i]]);
-        }
-};
-			Buy this domain. | More domains at Seo.Domains
                 }
-            2025 Copyright | All Rights Reserved.
+    })();
                 console.log(JSON.parse(xhr.responseText))
 <style>
-        ];
-    Privacy Policy
+    (function () {
     }
+<script>
+    xhr.send();
                     return;
-    };
-    <script>
+            } else {
+	}
+<div>
+iframe {
+        }
 body {
                 console.log('There was a problem with the request.');
-        return arguments;
 }
+};
+			Buy this domain. | More domains at Seo.Domains
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
+    };
+h1 {
+        loadFeed(...getLoadFeedArguments());
+            2025 Copyright | All Rights Reserved.
+    function getLoadFeedArguments() {
+    <script>
+        ];
+                arguments.push(this[possibleArguments[i]]);
+    Privacy Policy
+        return arguments;
+            pageOptions
+||us.*.qwadro.com^
+||tnc16-*.byteoversea.com^
 ||da.hornbach.*^
 ||cloudservice*.kingsoft-office-service.com^
 ||dm-*.toutiao.com^
@@ -241,8 +247,6 @@ body {
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||us.*.qwadro.com^
-||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
