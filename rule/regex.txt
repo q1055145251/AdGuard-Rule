@@ -1,4 +1,4 @@
-# Update time: 2025-06-04 09:26:06
+# Update time: 2025-06-04 20:37:51
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -76,9 +76,6 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
-<head>
-<body>
-<!doctype html>
 ||sax*.sina.
 ||bdcpro*.techweb.com.cn^
 ||67.21.92.*.gif
@@ -108,6 +105,9 @@
 ||vns86.oss-*.aliyuncs.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
+<head>
+<body>
+<!doctype html>
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -211,7 +211,6 @@
 @@||tongji.*kuwo.cn^
 ||gg*.51cto.com^
 ||tracker*.qcloud.com^
-||us.*.qwadro.com^
 ||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
@@ -230,7 +229,6 @@
 ||collector-*.us.tvsquared.com^
 ||mon-*.lemon8-app.us^
 ||mon-*.lemon8-app.com^
-||telemetry*.transcend.io^
 ||log*-misc-lf.amemv.com^
 ||stats2.*.fdnames.com^
 ||v*.denakop.com^
@@ -278,6 +276,7 @@
 ||ad.*.xiaomi.com^
 ||mon*-misc-lf.fqnovel.com^
 ||ads*.textra.me^
+||us.*.qwadro.com^
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||zazgiyoh*.xyz^
@@ -323,7 +322,6 @@
 ||util-*.simply-hentai.com^
 ||collect-elb-*.amazonaws.com^
 ||collector-*.px-cloud.net^
-||collector-*.tvsquared.com^
 ||log-*.previewnetworks.com^
 ||counter*-yadro*-ru.unblocked.lol^
 ||mads*z.com^
@@ -348,7 +346,6 @@
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||clog*.yuanfudao.com^
-||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||w*.*skwai.com^
@@ -364,7 +361,6 @@
 ||qn-*pcdn.cdn.huya.com^
 ||zazgiyoh*.world^
 ||zazgbqg*.xyz^
-||browser-intake-*-datadoghq.com^
 ||collector-*.px-cdn.net^
 ||ads*.zijieapi.com^
 ||host*.polaroid.com^
@@ -444,7 +440,6 @@
 ||qn-*pcdn.cdn.msstatic.com^
 ||mon-va*.capcutapi.com^
 ||js.*2023*.live^
-||collect-v*.51.la^
 ||logger-*.dailymotion.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
@@ -461,7 +456,6 @@
 ||analytics-ad-*.kgslb.com^
 ||aj2*.bid^
 ||analytics*.prezly.com^
-||collector*.ex.co^
 ||adserver*.euroweeklynews.com^
 analytics-*.aasaam.com
 ||an.yandex.
@@ -477,6 +471,7 @@ analytics-*.aasaam.com
 ||sgtm.fashionunited.
 ||partner.superbahisaffiliates*.com^
 ||v.tzbox*.xyz^
+||telemetry*.transcend.io^
 ||cnt.vivatube.
 ||rotabanner.
 ||advert*.ultraweb.hu^
@@ -549,6 +544,7 @@ analytics-*.aasaam.com
 ||cl*.k5a.io^
 ||analytics.ahrefs.
 ||s*.adduplex.com^
+||collector-*.tvsquared.com^
 ||adserver1.
 ||ad*.mellesleg.hu^
 ||backstory.ebay.
@@ -565,6 +561,7 @@ analytics-*.aasaam.com
 ||button.blogs.yandex.
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
+||creative*.bidease.com^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
@@ -580,6 +577,7 @@ analytics-*.aasaam.com
 ||u*.takru.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
 ||www.fuze-sea*.xyz^
+||browser-intake-*-datadoghq.com^
 ||metrics*.fitanalytics.com^
 ||edgetrksvc.ebay.
 ||ulog*.gifshow.com^
@@ -635,6 +633,7 @@ analytics-*.aasaam.com
 ||stats*.videonow.ru^
 ||pixel.archive.
 ||ad*.thisisgame.com^
+||collect-v*.51.la^
 ||q*-publick.club^
 ||iad-*.appboy.com^
 ||minitds-*.info^
@@ -656,6 +655,7 @@ analytics-*.aasaam.com
 ||rotator.
 ||pixel-*.convertagain.net^
 ||collector.xhamster*.
+||collector*.ex.co^
 ||poptraf.
 ||v*.sitecounter.site^
 ||reachableads-av.*.amazonaws.com^
