@@ -1,4 +1,4 @@
-# Update time: 2025-11-07 20:37:06
+# Update time: 2025-11-08 09:19:44
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,7 +55,6 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
-||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -76,6 +75,7 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
+||onetrust.
 <head>
 <body>
 <!doctype html>
@@ -110,36 +110,52 @@
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
     })();
-  console.log('Callback complete.');
-        iframe {
+            document.getElementById('loading')?.remove();
 <script>
     <noscript>
-            return null;
-            console.log(data);
+    xhr.send();
         } else {
+            } else {
 	}
 h1 {
-    document.getElementById('content').remove();
+iframe {
         }
-    });
-            window.onRTBFailure();
+        document.getElementById('content')?.remove();
 };
 			Buy this domain. | More domains at Seo.Domains
+                }
+        function handleRTBFailure() {
+                console.log(JSON.parse(xhr.responseText))
+<style>
+    (function () {
+            console.log('Failure callback complete.');
+    }
+    <style>
+                    return;
+    };
+<div>
+                return;
+body {
+            handleRTBFailure();
+                console.log('There was a problem with the request.');
+            }
+}
     })
         h1 {
         p {
         footer {
-<style>
+  console.log('Callback complete.');
         body {
-    (function () {
-    }
+        iframe {
         return JSON.parse(await response.text());
         window.onRTBFailure();
-<div>
+            return null;
+            console.log(data);
     <script>
         console.error(error);
-body {
-}
+    document.getElementById('content').remove();
+    });
+            window.onRTBFailure();
 ||us.*.qwadro.com^
 ||iad-*.braze.com^
 ||tnc16-*.byteoversea.com^
@@ -275,7 +291,6 @@ body {
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||ecommerce-events*.adscale.com^
-||tracking-v*.a.run.app^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
@@ -390,7 +405,6 @@ body {
 ||event.*.karrotmarket.com^
 ||a*.chajiaotong.com^
 ||gads*s.com^
-||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
@@ -428,6 +442,7 @@ body {
 ||mgbsdk*.matrix.easebar.com^
 ||api*.amplitude.com^
 ||app-analytics-*.snapchat.com^
+||tnc*.tiktokv.com^
 ||matomo.*.vn^
 ||appanalysis*.banggood.com^
 ||maas-*.phunware.com^
@@ -485,8 +500,11 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
+||rgfftupf.
 ||adservice.google.
+||counter*.stat.ovh^
 |load.sst.
+||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
@@ -531,6 +549,7 @@ analytics-*.aasaam.com
 ||bar*.shinobi.jp^
 ||counter*.freecounter.ovh^
 ||grs.dbankcloud.
+||tracking-v*.a.run.app^
 ||a*.smlog.co.kr^
 ||track.zalando.
 ||seller-log-collector.shopee.
@@ -576,6 +595,7 @@ analytics-*.aasaam.com
 ||mf*.advantage.as^
 ||query*.petametrics.com^
 ||button.blogs.yandex.
+||fxhpaoxqyajvmdg.
 ||zbb.bbb.*.pics^
 ||tw*.netcore.co.in^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
@@ -604,6 +624,7 @@ analytics-*.aasaam.com
 ||cnt.hd21.
 ||ulog.*.ksapisrv.com^
 ||servo-report.dvdfab.
+||trk*.vidible.tv^
 ||pop-under.
 ||talpa-analytics.
 ||pixelapi-*.cs.mysamba.tv^
@@ -646,6 +667,7 @@ analytics-*.aasaam.com
 |load.gtm.
 ||stats*.videonow.ru^
 ||pixel.archive.
+||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
 ||iad-*.appboy.com^
@@ -672,18 +694,13 @@ analytics-*.aasaam.com
 ||poptraf.
 ||v*.sitecounter.site^
 ||touch.yesim.
-||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
+||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
+||142.91.159.
 ||javascriptbasics^
 ||fapnado.*.php|
 ||itechpost.com*adbk
-||rgfftupf.
 @@||cdn*.porn300.com^
 ||admi2fib4exit^
-||gamenguide.com*adbk
-||counter*.stat.ovh^
-||ads.livetv*.me^
-||142.91.159.
-||fxhpaoxqyajvmdg.
 Banner468x60
