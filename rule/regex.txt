@@ -1,4 +1,4 @@
-# Update time: 2025-11-14 09:24:26
+# Update time: 2025-11-14 20:38:08
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -109,6 +109,39 @@
 ||ky891.oss-*.aliyuncs.com^
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
+h1 {
+    })();
+<div>
+<style>
+    (function () {
+body {
+    }
+<script>
+    <noscript>
+			Buy this domain. | More domains at Seo.Domains
+    })
+        h1 {
+        p {
+        footer {
+  console.log('Callback complete.');
+        body {
+        iframe {
+        return JSON.parse(await response.text());
+        window.onRTBFailure();
+            return null;
+            console.log(data);
+        } else {
+	}
+    <script>
+        console.error(error);
+    document.getElementById('content').remove();
+        }
+    });
+            window.onRTBFailure();
+}
+};
+||us.*.qwadro.com^
+||tnc16-*.byteoversea.com^
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -166,8 +199,6 @@
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||us.*.qwadro.com^
-||tnc16-*.byteoversea.com^
 ||pixel*.production-public.tubi.io^
 ||host*.nti.nl^
 ||ping*.qq.com^
@@ -384,7 +415,6 @@
 ||ads*-normal*.zijieapi.com^
 ||xy-*pcdn.msstatic.com^
 ||ac*.faxingchina.com^
-||use-trk*.bluevoox.com^
 ||log*.aliyuncs.com^
 ||geoloc*.geovisite.ovh^
 ||beacon-*.helpscout.net^
@@ -541,6 +571,7 @@ analytics-*.aasaam.com
 ||rehs.*.hu^
 ||cdn*.swaxis.com^
 ||srmdata-*.com^
+||use-trk*.bluevoox.com^
 ||adimg*.search.naver.net^
 ||log*.zijieapi.com^
 ||icq-window.
@@ -563,7 +594,6 @@ analytics-*.aasaam.com
 ||ad*.bilgin.pro^
 ||track.zalando.
 ||seller-log-collector.shopee.
-||advert*.livesportmedia.eu^
 ||px*.mediahills.ru^
 ||subnewss*.net^
 ||23.109.87.
@@ -653,36 +683,7 @@ rgmechanicsgames.com*VPN.exe
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
+||advert*.livesportmedia.eu^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
 Banner468x60
-h1 {
-    })();
-<div>
-        h1 {
-    (function () {
-<script>
-    })
-        p {
-        footer {
-<style>
-  console.log('Callback complete.');
-        body {
-        iframe {
-    }
-        return JSON.parse(await response.text());
-        window.onRTBFailure();
-    <noscript>
-            return null;
-            console.log(data);
-        } else {
-	}
-    <script>
-        console.error(error);
-    document.getElementById('content').remove();
-        }
-    });
-body {
-            window.onRTBFailure();
-};
-			Buy this domain. | More domains at Seo.Domains
