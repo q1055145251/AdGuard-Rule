@@ -1,4 +1,4 @@
-# Update time: 2025-12-31 20:40:28
+# Update time: 2026-01-01 09:48:44
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -5373,6 +5373,7 @@
 0.0.0.0 adcarem.co
 0.0.0.0 ad05.focalink.com
 0.0.0.0 newms-shop.su
+0.0.0.0 baselabo.heteml.net
 0.0.0.0 c.dk.msn.com
 0.0.0.0 v2profit.com
 0.0.0.0 com.htmlwww.youfck.com
