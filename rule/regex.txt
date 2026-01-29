@@ -1,4 +1,4 @@
-# Update time: 2026-01-29 09:56:04
+# Update time: 2026-01-29 20:55:02
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -235,6 +235,7 @@
 ||ad.kisstvshow.*^
 ||device-metrics-*.amazon.com^
 ||track.*.roku.com^
+||install*.zonastat.com^
 ||widgets.*.webengage.com^
 ||ads*.depositfiles.com^
 ||ad-*.appacc.dbankedge.cn^
@@ -279,6 +280,7 @@
 ||mads*z.com^
 ||event.*.shoplive.cloud^
 ||auth-*.hismarttv.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||ws-p2p*pull*com^
 ||admicro*.vcmedia.vn^
 ||batchlogging*-eu.truecaller.com^
@@ -308,6 +310,7 @@
 ||htm*.hepsiburada.com^
 ||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
+||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||api16-access-ttp*.tiktokpangle-b.us^
@@ -434,7 +437,9 @@
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
+||iad-*.appboy.com^
 ||bdlm*.hc360.com^
+||jtbo*.nqxvevk.cn^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
@@ -531,7 +536,6 @@ analytics-*.aasaam.com
 ||t.delfi.
 ||hostingcloud.*.wasm^
 ||medialand.
-||install*.zonastat.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
 ||get-me-wow.
@@ -561,7 +565,6 @@ analytics-*.aasaam.com
 ||adx-*.dbankcloud.
 ||pop-parad.
 ||mediate-ios-*.hyprmx.com^
-||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||mediacontext.
 ||videoclick.
 ||broredir*s.site^
@@ -571,7 +574,6 @@ analytics-*.aasaam.com
 ||121.204.246.*.gif
 ||button.blogs.yandex.
 ||zbb.bbb.*.pics^
-||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
 ||xlog*-*.tiktokv.com^
@@ -640,9 +642,7 @@ analytics-*.aasaam.com
 ||bdcpro*.techweb.com.cn^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
-||iad-*.appboy.com^
 ||minitds-*.info^
-||jtbo*.nqxvevk.cn^
 ||polaris*-normal-*.zijieapi.com^
 |a.klaviyo.com^
 ||ad.*.doubleclick.net^
