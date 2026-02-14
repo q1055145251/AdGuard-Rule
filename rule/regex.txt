@@ -1,4 +1,4 @@
-# Update time: 2026-02-13 20:56:49
+# Update time: 2026-02-14 09:57:00
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -55,7 +55,6 @@
 ||avito.avito.avito.
 ||yandex.pay.avito.
 ||report.*.qq.com^
-||onetrust.
 ||allyes.
 ||icast.
 ||gg.
@@ -76,16 +75,8 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-	window.location.replace(redirect_link + suffix);
-			clearTimeout(rdrTimeout);
-} catch (err) {
-function redirect(suffix) {
+||onetrust.
 <html>
-<head>
-	if (redirected) return;
-		});
-}
-try {
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||da.hornbach.*^
@@ -334,14 +325,12 @@ analytics-*.aasaam.com
 ||pixel.archive.
 ||ad*.thisisgame.com^
 ||q*-publick.club^
-||iad-*.appboy.com^
 ||minitds-*.info^
 ||jtbo*.nqxvevk.cn^
 ||polaris*-normal-*.zijieapi.com^
 |a.klaviyo.com^
 ||ad.*.doubleclick.net^
 ||snowplow-collector-*.amazonaws.com^
-||ya*.dwstatic.com^
 ||ms*.applvn.com^
 ||thegreatesthits.
 ||sgtm.wimdu.
@@ -643,10 +632,12 @@ analytics-*.aasaam.com
 ||js.*2023*.live^
 ||collect-v*.51.la^
 ||logger-*.dailymotion.com^
+||iad-*.appboy.com^
 ||bdlm*.hc360.com^
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
+||ya*.dwstatic.com^
 ||iad-*.braze.com^
 ||track-*.hungrypanda.co^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
