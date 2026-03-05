@@ -1,4 +1,4 @@
-# Update time: 2026-03-05 09:59:42
+# Update time: 2026-03-05 20:57:37
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -2687,7 +2687,6 @@
 0.0.0.0 belambre.fr
 0.0.0.0 hits.webstat.com
 0.0.0.0 bizad.nikkeibp.co.jp
-0.0.0.0 www.icbc-ltd.com
 0.0.0.0 e-2dj6wjnygidjskq.stats.esomniture.com
 0.0.0.0 app2.downloadmacsoft.world
 0.0.0.0 jgen33.cjt1.net
@@ -9640,6 +9639,7 @@
 0.0.0.0 la.5.p2l.info
 0.0.0.0 tracking.fanbridge.com
 0.0.0.0 domains-resolver.net
+0.0.0.0 www.jessicalonda.com
 0.0.0.0 adap.tv
 0.0.0.0 taniezakupy.pl
 0.0.0.0 gcirm.tennessean.com
