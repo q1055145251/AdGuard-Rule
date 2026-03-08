@@ -1,4 +1,4 @@
-# Update time: 2026-03-08 10:01:32
+# Update time: 2026-03-08 20:46:06
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -79,13 +79,13 @@
 	window.location.replace(redirect_link + suffix);
 			clearTimeout(rdrTimeout);
 } catch (err) {
+		});
+}
+try {
 function redirect(suffix) {
 <html>
 <head>
 	if (redirected) return;
-		});
-}
-try {
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
 ||marketplace-*.hyprmx.com^
@@ -177,6 +177,7 @@ analytics-*.aasaam.com
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
+||prebid-*.rubiconproject.com^
 ||ysdm*.ys137.com.cn^
 ||sgtm.fashionunited.
 ||log*-normal-*.tiktokv.com
@@ -227,11 +228,11 @@ analytics-*.aasaam.com
 ||weblogger-wss.cool*cloud.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
 ||medialand.
-||install*.zonastat.com^
 ||rusrestbest.
 ||v.newsportal*.ru^
 ||get-me-wow.
@@ -294,7 +295,6 @@ analytics-*.aasaam.com
 ||cnt.hd21.
 ||ulog.*.ksapisrv.com^
 ||servo-report.dvdfab.
-||trk*.vidible.tv^
 ||pop-under.
 ||talpa-analytics.
 ||pixelapi-*.cs.mysamba.tv^
@@ -455,6 +455,7 @@ analytics-*.aasaam.com
 ||ad.kisstvshow.*^
 ||device-metrics-*.amazon.com^
 ||track.*.roku.com^
+||install*.zonastat.com^
 ||widgets.*.webengage.com^
 ||ads*.depositfiles.com^
 ||ad-*.appacc.dbankedge.cn^
@@ -566,6 +567,7 @@ analytics-*.aasaam.com
 ||event.*.karrotmarket.com^
 ||a*.chajiaotong.com^
 ||gads*s.com^
+||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
@@ -678,8 +680,6 @@ rgmechanicsgames.com*VPN.exe
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
-||advert*.livesportmedia.eu^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
-||prebid-*.rubiconproject.com^
 Banner468x60
