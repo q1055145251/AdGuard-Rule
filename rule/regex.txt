@@ -1,4 +1,4 @@
-# Update time: 2026-04-15 10:27:01
+# Update time: 2026-04-15 21:21:49
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -167,6 +167,7 @@ analytics-*.aasaam.com
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
 ||adservice.google.
+||trace-*.free-reels.com^
 |load.sst.
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
@@ -222,6 +223,7 @@ analytics-*.aasaam.com
 ||weblogger-wss.cool*cloud.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
@@ -345,6 +347,7 @@ analytics-*.aasaam.com
 ||snowplow-collector-*.amazonaws.com^
 ||ya*.dwstatic.com^
 ||thegreatesthits.
+||tracking-*.trnox.com^
 ||sgtm.wimdu.
 ||snowplow-collector.
 ||www.fuze-hill*.xyz^
@@ -367,7 +370,6 @@ analytics-*.aasaam.com
 ||cj1*.online^
 ||orderana*.spankbang.com^
 ||sd.yhzzzs*.com^
-||trace-*.free-reels.com^
 ||collector-*.pxchk.net^
 ||host*.carl-ras.dk^
 ||ads*.dfiles.ru^
@@ -655,7 +657,6 @@ analytics-*.aasaam.com
 ||track-*.hungrypanda.co^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
-||tracking-*.trnox.com^
 ||telemetry.*.pvp.net^
 ||gtlpa*.com^
 ||gbxreport-*.wf.com^
@@ -682,7 +683,6 @@ rgmechanicsgames.com*VPN.exe
 ||gamenguide.com*adbk
 ||counter*.stat.ovh^
 ||ads.livetv*.me^
-||advert*.livesportmedia.eu^
 ||142.91.159.
 ||fxhpaoxqyajvmdg.
 ||prebid-*.rubiconproject.com^
