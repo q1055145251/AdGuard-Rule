@@ -1,4 +1,4 @@
-# Update time: 2026-04-22 21:24:49
+# Update time: 2026-04-23 10:32:08
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -170,6 +170,7 @@ analytics-*.aasaam.com
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
+||prebid-*.rubiconproject.com^
 ||ysdm*.ys137.com.cn^
 ||sgtm.fashionunited.
 ||log*-normal-*.tiktokv.com
@@ -687,5 +688,4 @@ rgmechanicsgames.com*VPN.exe
 |167.206.10.148^
 ||23.109.87.
 ||fxhpaoxqyajvmdg.
-||prebid-*.rubiconproject.com^
 Banner468x60
