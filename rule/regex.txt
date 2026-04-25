@@ -1,4 +1,4 @@
-# Update time: 2026-04-24 21:21:10
+# Update time: 2026-04-25 10:22:46
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -84,6 +84,7 @@
 ||mediate-ios-*.hyprmx.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||us.*.qwadro.com^
+||creative*.bidease.com^
 ||mob*.novanewsapp.com^
 ||tnc16-*.byteoversea.com^
 ||rtbimp-loadbalancer-*.amazonaws.com^
@@ -165,15 +166,11 @@ analytics-*.aasaam.com
 ||gtmdev.jabra.
 ||tracking.olx.
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||adservice.google.
-||counter*.stat.ovh^
 |load.sst.
-||ads.livetv*.me^
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
-||prebid-*.rubiconproject.com^
 ||ysdm*.ys137.com.cn^
 ||sgtm.fashionunited.
 ||log*-normal-*.tiktokv.com
@@ -225,7 +222,6 @@ analytics-*.aasaam.com
 ||weblogger-wss.cool*cloud.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
-||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
@@ -248,7 +244,6 @@ analytics-*.aasaam.com
 ||dw-informer-*.newsru.com^
 |piwik.
 ||letssex.
-||ad-host-backup-*.aliyuncs.com^
 ||cl*.k5a.io^
 ||analytics.ahrefs.
 ||s*.adduplex.com^
@@ -267,7 +262,6 @@ analytics-*.aasaam.com
 ||query*.petametrics.com^
 ||121.204.246.*.gif
 ||button.blogs.yandex.
-||fxhpaoxqyajvmdg.
 ||zbb.bbb.*.pics^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||rum*.a.trbcdn.net^
@@ -289,7 +283,6 @@ analytics-*.aasaam.com
 ||eclog*-*.cafe24.com^
 ||s*.skencituer.com^
 ||underclick.
-||advertising.civitai.
 ||bc.geocities.
 ||tag-based.s3.*.amazonaws.com^
 ||cnt.hd21.
@@ -338,7 +331,6 @@ analytics-*.aasaam.com
 |load.gtm.
 ||stats*.videonow.ru^
 ||pixel.archive.
-||reachableads-av.*.amazonaws.com^
 ||ad*.thisisgame.com^
 ||q*-publick.club^
 ||minitds-*.info^
@@ -529,7 +521,6 @@ analytics-*.aasaam.com
 ||logreport-global-dual.cool*cloud.com^
 ||clog*.yuanfudao.com^
 ||htm*.hepsiburada.com^
-||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
@@ -678,15 +669,24 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
+||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
-||158.247.208.
 ||23.109.82.
+||ad-host-backup-*.aliyuncs.com^
+||fapnado.*.php|
+||itechpost.com*adbk
+||rgfftupf.
+@@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||counter*.stat.ovh^
+||158.247.208.
+||ads.livetv*.me^
+||advert*.livesportmedia.eu^
 ||142.91.159.
 |167.206.10.148^
-||fapnado.*.php|
 ||23.109.87.
-||itechpost.com*adbk
-@@||cdn*.porn300.com^
+||fxhpaoxqyajvmdg.
+||prebid-*.rubiconproject.com^
+||advertising.civitai.
 Banner468x60
