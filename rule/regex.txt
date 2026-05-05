@@ -1,4 +1,4 @@
-# Update time: 2026-05-04 21:57:16
+# Update time: 2026-05-05 10:37:47
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -47,6 +47,7 @@
 
 # 每12小时同步一次、如有误杀、请手动解除
 
+||p𝓸𝘳𝘯𝚔𝘢f.net^
 ||yandex.avito.www.
 ||booklng.com-*
 ||yandex.avito.sber*
@@ -173,7 +174,6 @@ analytics-*.aasaam.com
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
-||prebid-*.rubiconproject.com^
 ||ysdm*.ys137.com.cn^
 ||sgtm.fashionunited.
 ||log*-normal-*.tiktokv.com
@@ -220,10 +220,10 @@ analytics-*.aasaam.com
 ||logs*.smithsonian.museum^
 ||bar*.shinobi.jp^
 ||counter*.freecounter.ovh^
+||tracking-v*.a.run.app^
 ||weblogger-wss.cool*cloud.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
-||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
@@ -246,7 +246,6 @@ analytics-*.aasaam.com
 ||dw-informer-*.newsru.com^
 |piwik.
 ||letssex.
-||ad-host-backup-*.aliyuncs.com^
 ||cl*.k5a.io^
 ||analytics.ahrefs.
 ||s*.adduplex.com^
@@ -446,7 +445,6 @@ analytics-*.aasaam.com
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||ecommerce-events*.adscale.com^
-||tracking-v*.a.run.app^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
@@ -680,14 +678,17 @@ analytics-*.aasaam.com
 ||union*.365inews.com^
 ||vns86.oss-*.aliyuncs.com^
 ||ads*.opensubtitles.org^
-||gamenguide.com*adbk
 rgmechanicsgames.com*VPN.exe
-||158.247.208.
 ||23.109.82.
-||142.91.159.
-|167.206.10.148^
+||ad-host-backup-*.aliyuncs.com^
 ||fapnado.*.php|
-||23.109.87.
 ||itechpost.com*adbk
 @@||cdn*.porn300.com^
+||gamenguide.com*adbk
+||158.247.208.
+||advert*.livesportmedia.eu^
+||142.91.159.
+|167.206.10.148^
+||23.109.87.
+||prebid-*.rubiconproject.com^
 Banner468x60
