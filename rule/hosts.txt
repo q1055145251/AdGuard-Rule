@@ -1,4 +1,4 @@
-# Update time: 2026-05-22 22:35:37
+# Update time: 2026-05-23 10:50:57
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3477,6 +3477,7 @@
 0.0.0.0 pwdplz.com
 0.0.0.0 ehg-eckounlimited.hitbox.com
 0.0.0.0 nordette.4.p2l.info
+0.0.0.0 benefitsaccountreport.es
 0.0.0.0 gimp.es
 0.0.0.0 d4q8zgf756.com
 0.0.0.0 www2.bannerspace.com
@@ -11540,7 +11541,6 @@
 0.0.0.0 lp.sexyadults.eu
 0.0.0.0 js1.hitbox.com
 0.0.0.0 bkrtx.com
-0.0.0.0 philippschoch.ch
 0.0.0.0 uproar.com
 0.0.0.0 greffetc-paris.fr
 0.0.0.0 oascentral.westword.com
