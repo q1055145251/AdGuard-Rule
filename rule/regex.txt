@@ -1,4 +1,4 @@
-# Update time: 2026-08-01 21:16:23
+# Update time: 2026-08-02 10:37:30
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -487,7 +487,6 @@ analytics-*.aasaam.com
 ||allsportsflix.
 ||iphone-caviar.ru*entranceId
 ||w*statistics.info^
-||prebid-*.rubiconproject.com^
 ||ysdm*.ys137.com.cn^
 ||sgtm.fashionunited.
 ||log*-normal-*.tiktokv.com
@@ -538,6 +537,7 @@ analytics-*.aasaam.com
 ||weblogger-wss.cool*cloud.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||subnewss*.net^
 ||t.delfi.
 ||hostingcloud.*.wasm^
@@ -580,7 +580,6 @@ analytics-*.aasaam.com
 ||query*.petametrics.com^
 ||121.204.246.*.gif
 ||button.blogs.yandex.
-||buzzer.xhamster*
 ||zbb.bbb.*.pics^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||rum*.a.trbcdn.net^
@@ -602,6 +601,7 @@ analytics-*.aasaam.com
 ||eclog*-*.cafe24.com^
 ||s*.skencituer.com^
 ||underclick.
+||advertising.civitai.
 ||bc.geocities.
 ||tag-based.s3.*.amazonaws.com^
 ||cnt.hd21.
@@ -688,11 +688,11 @@ rgmechanicsgames.com*VPN.exe
 ||counter*.stat.ovh^
 ||158.247.208.
 ||ads.livetv*.me^
-||advert*.livesportmedia.eu^
 ||142.91.159.
+||buzzer.xhamster*
 |167.206.10.148^
 ||rtb-*.anysex.com^
 ||23.109.87.
 ||fxhpaoxqyajvmdg.
-||advertising.civitai.
+||prebid-*.rubiconproject.com^
 Banner468x60
