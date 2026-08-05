@@ -1,4 +1,4 @@
-# Update time: 2026-08-04 22:06:13
+# Update time: 2026-08-05 10:23:10
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -10244,6 +10244,7 @@
 0.0.0.0 charmstroy.info
 0.0.0.0 0d79ed.r.axf8.net
 0.0.0.0 www.speedboink.com
+0.0.0.0 www.argesmedia.com
 0.0.0.0 advertstream.com
 0.0.0.0 ws03.do.nu
 0.0.0.0 diazepam.shengen.ru
@@ -12892,6 +12893,7 @@
 0.0.0.0 sinochem.fr
 0.0.0.0 stats.adultswim.com
 0.0.0.0 freecamerasource.com
+0.0.0.0 www.ampervid.com
 0.0.0.0 pro.hit.gemius.pl
 0.0.0.0 i.simpli.fi
 0.0.0.0 www.comfortykive.xyz
