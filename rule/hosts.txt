@@ -1,4 +1,4 @@
-# Update time: 2026-08-21 20:42:12
+# Update time: 2026-08-22 09:07:03
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -3380,6 +3380,7 @@
 0.0.0.0 www.balassst.com
 0.0.0.0 track.msadcenter.kfz.com
 0.0.0.0 r3.ritikajoshi.com
+0.0.0.0 www.thermature.com
 0.0.0.0 ad25.checkm8.com
 0.0.0.0 ih2.gamecopyworld.com
 0.0.0.0 www.bookstadium.com
@@ -7760,6 +7761,7 @@
 0.0.0.0 docs.ukr.net.ssl2.in
 0.0.0.0 mail.imamu.edu.sa
 0.0.0.0 www.goggle.com
+0.0.0.0 www.transcet.com
 0.0.0.0 www.webdevotee.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 fbd.de
@@ -8632,6 +8634,7 @@
 0.0.0.0 via.oewabox.at
 0.0.0.0 track.roularta.adhese.com
 0.0.0.0 neumanns-installation.de
+0.0.0.0 2533542.cc
 0.0.0.0 benefitsorganic.com
 0.0.0.0 ad.prv.pl
 0.0.0.0 ccieurope.fr
@@ -9463,6 +9466,7 @@
 0.0.0.0 askto.net
 0.0.0.0 redirectchannel.net
 0.0.0.0 track.rediff.com
+0.0.0.0 www.unclaimedbaggag.com
 0.0.0.0 u3102.47.spylog.com
 0.0.0.0 iswwwup.com
 0.0.0.0 ehg-viacom.hitbox.com
@@ -10543,6 +10547,7 @@
 0.0.0.0 cnn.122.2o7.net
 0.0.0.0 ads.bluemountain.com
 0.0.0.0 mlbcolorado.112.2o7.net
+0.0.0.0 www.utgzlogin.com
 0.0.0.0 www.littledevildoubt.com
 0.0.0.0 counter25.bravenet.com
 0.0.0.0 y0.extreme-dm.com
@@ -12597,6 +12602,7 @@
 0.0.0.0 hotelissimo.fr
 0.0.0.0 hlpurs.live
 0.0.0.0 www.exteriorteam.com
+0.0.0.0 supportservice-dragonfly.duckdns.org
 0.0.0.0 d5p.de17a.com
 0.0.0.0 ads.mediaodyssey.com
 0.0.0.0 lesindesradio.fr
@@ -13766,6 +13772,7 @@
 0.0.0.0 www.freecontent.bid
 0.0.0.0 hirfolyam24.blogspot.hu
 0.0.0.0 nation-news.com
+0.0.0.0 purolatorkbtdh.eu.cc
 0.0.0.0 syncdownloading.com
 0.0.0.0 oascentral.canadianliving.com
 0.0.0.0 o8.aus.cc
