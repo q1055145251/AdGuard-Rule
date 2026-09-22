@@ -1,4 +1,4 @@
-# Update time: 2026-09-22 11:23:23
+# Update time: 2026-09-23 00:18:35
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -220,6 +220,7 @@ analytics-*.aasaam.com
 ||logs*.smithsonian.museum^
 ||bar*.shinobi.jp^
 ||counter*.freecounter.ovh^
+||tracking-v*.a.run.app^
 ||weblogger-wss.cool*cloud.com^
 ||track.zalando.
 ||seller-log-collector.shopee.
@@ -271,12 +272,14 @@ analytics-*.aasaam.com
 ||fxhpaoxqyajvmdg.
 ||zbb.bbb.*.pics^
 ||valentine.xhamster.*^
+||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||rum*.a.trbcdn.net^
 ||analytics-api.dvdfab.
 ||xlog*-*.tiktokv.com^
 ||ad*.on.cc^
 ||bondzgi*.
 ||etargetnet.*.hu^
+||ulog-*.ksapisrv.com^
 ||rum*.cdnvideo.ru^
 ||38.33.15.*.gif
 ||mssdk*.zijieapi.com^
@@ -293,8 +296,10 @@ analytics-*.aasaam.com
 ||bc.geocities.
 ||tag-based.s3.*.amazonaws.com^
 ||cnt.hd21.
+||ulog.*.ksapisrv.com^
 ||stw.zone-telechargement.
 ||servo-report.dvdfab.
+||trk*.vidible.tv^
 ||pop-under.
 ||talpa-analytics.
 ||pixelapi-*.cs.mysamba.tv^
@@ -327,6 +332,8 @@ analytics-*.aasaam.com
 ||ad*.bilgin.pro^
 ||px*.mediahills.ru^
 ||e.missav.
+||ulog.*.kwai-pro.com^
+||ubacollect-*.cloud.dbankcloud.cn^
 ||rotaban.
 ||tw-726620180914.*.run.app^
 ||analytics.vgtimes.
@@ -345,6 +352,7 @@ analytics-*.aasaam.com
 |a.klaviyo.com^
 ||ad.*.doubleclick.net^
 ||snowplow-collector-*.amazonaws.com^
+||ya*.dwstatic.com^
 ||thegreatesthits.
 ||sgtm.wimdu.
 ||snowplow-collector.
@@ -446,7 +454,6 @@ analytics-*.aasaam.com
 ||aj2*.online^
 ||cs*.mp3bars.com^
 ||ecommerce-events*.adscale.com^
-||tracking-v*.a.run.app^
 ||zazgiyoh*.xyz^
 ||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
@@ -532,7 +539,6 @@ analytics-*.aasaam.com
 ||htm*.hepsiburada.com^
 ||creative*.bidease.com^
 ||mapi-log.qoo*.jp^
-||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||fanpingbi*.gaokao.com^
 ||dn*.ixinwei.com^
 ||ja*.apppure.net^
@@ -547,7 +553,6 @@ analytics-*.aasaam.com
 ||stun.*.kugou.com^
 ||st-*.dynamicyield.com^
 ||host*.ncoi.nl^
-||ulog-*.ksapisrv.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||analytics-rollout-*.amazonaws.com^
 ||qn-*pcdn.cdn.huya.com^
@@ -576,10 +581,8 @@ analytics-*.aasaam.com
 ||ads.*.yahoo.com^
 ||adv0*.msa.cdn.mediaset.net^
 ||event.*.karrotmarket.com^
-||ulog.*.ksapisrv.com^
 ||a*.chajiaotong.com^
 ||gads*s.com^
-||trk*.vidible.tv^
 ||gscounters.*.gigya.com^
 ||adserver.*.yahoodns.net^
 ||fads*z.com^
@@ -625,9 +628,7 @@ analytics-*.aasaam.com
 ||tnc*.tiktokv.com^
 ||matomo.*.vn^
 ||log-*.isnssdk.com^
-||ulog.*.kwai-pro.com^
 ||static*.365inews.com^
-||ubacollect-*.cloud.dbankcloud.cn^
 ||appanalysis*.banggood.com^
 ||maas-*.phunware.com^
 ||api*.batmobi.net^
@@ -665,7 +666,6 @@ analytics-*.aasaam.com
 ||analytics*.carambo.la^
 ||chat*-ce.chatdealer.jp^
 ||aan.amazon.*^
-||ya*.dwstatic.com^
 ||track-*.hungrypanda.co^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||bjsvp*.space^
