@@ -1,4 +1,4 @@
-# Update time: 2026-09-25 11:31:21
+# Update time: 2026-09-26 00:34:54
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -78,6 +78,10 @@
 ||onetrust.
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
+||us.*.qwadro.com^
+||iad-*.braze.com^
+||ifengad.*.ifeng.com^
+||get*bannerads-6egeg2u34q-du.a.run.app^
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -138,8 +142,6 @@
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||us.*.qwadro.com^
-||iad-*.braze.com^
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||ping*.qq.com^
@@ -154,7 +156,6 @@
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
-||get*bannerads-6egeg2u34q-du.a.run.app^
 ||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
@@ -203,8 +204,6 @@
 ||ulog*.*^
 ||mcdp-*.outbrain.com^
 ||prod.*.analytics.console.aws.a2z.com^
-||a*.smlog.co.kr^
-||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||matomo.*.vn^
 ||p26.gejulm*.com^
@@ -334,6 +333,7 @@ analytics-*.aasaam.com
 ||ads*.textra.me^
 ||ecommerce-events*.adscale.com^
 ||counter*.freecounter.ovh^
+||a*.smlog.co.kr^
 ||track.zalando.
 ||mcs-*.tiktok.com^
 ||subnewss*.net^
