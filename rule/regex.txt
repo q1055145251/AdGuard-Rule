@@ -1,4 +1,4 @@
-# Update time: 2026-10-03 01:29:27
+# Update time: 2026-10-03 11:51:53
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -76,13 +76,9 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
-||entry-verifed-cdn.
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
-||us.*.qwadro.com^
-||iad-*.braze.com^
-||ifengad.*.ifeng.com^
-||get*bannerads-6egeg2u34q-du.a.run.app^
+||entry-verifed-cdn.
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -153,11 +149,11 @@
 ||w*.*skwai.com^
 ||ads*.dfiles.ru^
 ||stun.*.kugou.com^
-||admob-app-id-*.firebaseio.com^
 ||qn-*pcdn.cdn.huya.com^
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
+||get*bannerads-6egeg2u34q-du.a.run.app^
 ||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
@@ -168,7 +164,6 @@
 ||cas.*.criteo.com^
 ||n*adserv.com^
 ||zbc6hy*.live^
-||analytics*.clickdimensions.com^
 ||asd8900.oss-*.aliyuncs.com^
 ||ky891.oss-*.aliyuncs.com^
 ||mobileanalytics.*.amazonaws.com^
@@ -182,15 +177,12 @@
 ||prod.*.publishers.advertising.a2z.com^
 ||fpb*.51edu.com^
 ||display-ad-*.kgslb.com^
-||acr-*-prd.samsungcloud.tv^
 ||ej1*.online^
 ||log-*.epicdn.me^
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
-||adcounter*.uptolike.ru^
 ||tupian888.*.bcebos.com^
 ||metric*.rediff.com^
-||ad*.ettoday.net^
 ||faro-collector-*.grafana-ops.net^
 ||xy-*pcdn.msstatic.com^
 ||impservice*.yodao.com^
@@ -201,6 +193,7 @@
 ||sam*.baby-kingdom.com^
 ||ad.*.xiaomi.com^
 ||fra-*.braze.eu^
+||us.*.qwadro.com^
 ||aj2*.online^
 ||res*.pinpai8.cn^
 ||zazgiyoh*.xyz^
@@ -212,6 +205,7 @@
 ||mcdp-*.outbrain.com^
 ||prod.*.analytics.console.aws.a2z.com^
 ||a*.smlog.co.kr^
+||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||matomo.*.vn^
 ||p26.gejulm*.com^
@@ -252,6 +246,7 @@
 ||chat*-ce.chatdealer.jp^
 ||util-*.simply-hentai.com^
 ||collector-*.px-cloud.net^
+||iad-*.braze.com^
 ||bjsvp*.space^
 ||log-*.previewnetworks.com^
 ||mads*z.com^
@@ -290,6 +285,7 @@ analytics-*.aasaam.com
 ||log*-normal-*.tiktokv.com
 ||107.167.22.*.gif
 ||eflbundles.*.com.tr^
+||admob-app-id-*.firebaseio.com^
 ||datacollect*.abtasty.com^
 ||v.tzbox*.xyz^
 ||rotabanner.
@@ -326,6 +322,7 @@ analytics-*.aasaam.com
 ||sgtm.fairmont.
 ||marketplace-*.hyprmx.com^
 ||tnc*.tiktokv.us^
+||ad*.ettoday.net^
 ||log-collector.shopee.
 ||report*.appmetrica.webvisor.com^
 ||bapi-*.moengage.com^
@@ -474,13 +471,10 @@ analytics-*.aasaam.com
 ||host*.nti.nl^
 ||adserver*.euroweeklynews.com^
 ||teleriumads-*.netdna-ssl.com^
-||rgfftupf.
 ||adservice.google.
 ||mcs-normal-*.capcutapi.com^
 ||trace-*.free-reels.com^
-||counter*.stat.ovh^
 ||host*.carl-ras.dk^
-||ads.livetv*.me^
 ||iphone-caviar.ru*entranceId
 ||hw-sh-pcdn-*.biliapi.net^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
@@ -498,6 +492,7 @@ analytics-*.aasaam.com
 ||real*traf.ru^
 ||powa-ingest-prod-*.video-player.arcpublishing.com^
 ||wa.gmx.
+||analytics*.clickdimensions.com^
 ||mon*-*.tiktokv.us^
 ||kbox-analytics-prod.s*.amazonaws.com^
 ||cnt.yeptube.
@@ -532,6 +527,7 @@ analytics-*.aasaam.com
 ||tracking-v*.a.run.app^
 ||weblogger-wss.cool*cloud.com^
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||t.delfi.
 ||device-metrics-*.amazon.com^
 ||v.newsportal*.ru^
@@ -576,7 +572,7 @@ analytics-*.aasaam.com
 ||ads-dmp-collect.*.karrotmarket.com^
 ||mf*.advantage.as^
 ||121.204.246.*.gif
-||fxhpaoxqyajvmdg.
+||buzzer.xhamster*
 ||zbb.bbb.*.pics^
 ||flurry.agentportal-*.yahoodns.net^
 ||servo-report.keepstreams.*^
@@ -625,7 +621,9 @@ analytics-*.aasaam.com
 ||web-visor.
 ||1024wanzhai.
 ||api*.batmobil.net^
+||acr-*-prd.samsungcloud.tv^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
+||adcounter*.uptolike.ru^
 ||stats.mapple.*^
 ||cdn*.swaxis.com^
 ||adimg*.search.naver.net^
@@ -691,12 +689,14 @@ rgmechanicsgames.com*VPN.exe
 ||ad-host-backup-*.aliyuncs.com^
 ||fapnado.*.php|
 ||itechpost.com*adbk
+||rgfftupf.
 @@||cdn*.porn300.com^
 ||gamenguide.com*adbk
+||counter*.stat.ovh^
 ||158.247.208.
-||advert*.livesportmedia.eu^
+||ads.livetv*.me^
 ||142.91.159.
-||buzzer.xhamster*
 |167.206.10.148^
 ||23.109.87.
+||fxhpaoxqyajvmdg.
 Banner468x60
