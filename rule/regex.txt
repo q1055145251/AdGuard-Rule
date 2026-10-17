@@ -1,4 +1,4 @@
-# Update time: 2026-10-17 00:06:16
+# Update time: 2026-10-17 11:03:22
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -54,6 +54,7 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
+||report.*.qq.com^
 ||allyes.
 ||icast.
 ||gg.
@@ -75,7 +76,6 @@
 ||saxs.sina.
 ||adsame.
 ||onetrust.
-||report.*.qq.com^
 ||entry-verifed-cdn.
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
@@ -519,6 +519,7 @@ analytics-*.aasaam.com
 ||tracking-v*.a.run.app^
 ||weblogger-wss.cool*cloud.com^
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||t.delfi.
 ||device-metrics-*.amazon.com^
 ||v.newsportal*.ru^
@@ -570,6 +571,7 @@ analytics-*.aasaam.com
 ||htm*.hepsiburada.com^
 ||clog*.yuanfudao.com^
 ||creative*.bidease.com^
+||valentine.xhamster.*^
 ||mapi-log.qoo*.jp^
 ||ja*.apppure.net^
 ||api16-access-ttp*.tiktokpangle-b.us^
@@ -674,7 +676,6 @@ analytics-*.aasaam.com
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
 ||23.109.82.
-||valentine.xhamster.*^
 ||ad-host-backup-*.aliyuncs.com^
 ||fapnado.*.php|
 ||itechpost.com*adbk
@@ -684,7 +685,6 @@ rgmechanicsgames.com*VPN.exe
 ||counter*.stat.ovh^
 ||158.247.208.
 ||ads.livetv*.me^
-||advert*.livesportmedia.eu^
 ||142.91.159.
 |167.206.10.148^
 ||rtb-*.anysex.com^
