@@ -1,4 +1,4 @@
-# Update time: 2026-10-21 00:22:28
+# Update time: 2026-10-21 11:22:53
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 
 ###################################   合并/去重自以下规则   ####################################
@@ -54,6 +54,7 @@
 ||avito.avito.www.avito.
 ||avito.avito.avito.
 ||yandex.pay.avito.
+||report.*.qq.com^
 ||allyes.
 ||icast.
 ||gg.
@@ -74,11 +75,14 @@
 ||googleadservices.
 ||saxs.sina.
 ||adsame.
-||report.*.qq.com^
 ||onetrust.
 ||entry-verifed-cdn.
 ||imgpfx.arenavision.
 ||player-feedback*.glomex.*^
+||us.*.qwadro.com^
+||iad-*.braze.com^
+||ifengad.*.ifeng.com^
+||get*bannerads-6egeg2u34q-du.a.run.app^
 ||da.hornbach.*^
 ||dm-*.toutiao.com^
 ||adsystem*.*^
@@ -139,8 +143,6 @@
 ||qchannel*.cn^
 ||tracker*.qcloud.com^
 ||adwords*.*^
-||us.*.qwadro.com^
-||iad-*.braze.com^
 ||pangolin-sdk-toutiao*.com^
 ||collector-*.luigisbox.com^
 ||ping*.qq.com^
@@ -155,7 +157,6 @@
 ||zazgiyoh*.world^
 ||collector-*.us.tvsquared.com^
 ||zazgbqg*.xyz^
-||get*bannerads-6egeg2u34q-du.a.run.app^
 ||stats2.*.fdnames.com^
 ||v*.denakop.com^
 ||ads*.zijieapi.com^
@@ -203,7 +204,6 @@
 ||mcdp-*.outbrain.com^
 ||prod.*.analytics.console.aws.a2z.com^
 ||analytics.*.adjust.com^
-||ifengad.*.ifeng.com^
 ||bjkedv*.xyz^
 ||matomo.*.vn^
 ||p26.gejulm*.com^
@@ -468,9 +468,7 @@ analytics-*.aasaam.com
 ||adservice.google.
 ||mcs-normal-*.capcutapi.com^
 ||trace-*.free-reels.com^
-||counter*.stat.ovh^
 ||host*.carl-ras.dk^
-||ads.livetv*.me^
 ||iphone-caviar.ru*entranceId
 ||hw-sh-pcdn-*.biliapi.net^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
@@ -523,6 +521,7 @@ analytics-*.aasaam.com
 ||tracking-v*.a.run.app^
 ||weblogger-wss.cool*cloud.com^
 ||seller-log-collector.shopee.
+||advert*.livesportmedia.eu^
 ||t.delfi.
 ||device-metrics-*.amazon.com^
 ||v.newsportal*.ru^
@@ -653,7 +652,6 @@ analytics-*.aasaam.com
 ||logs-*.rebxgame.com^
 ||stats*.videonow.ru^
 ||hba*.hepsiburada.com^
-||reachableads-av.*.amazonaws.com^
 ||mon-va*.capcutapi.com^
 ||q*-publick.club^
 ||collect-v*.51.la^
@@ -677,6 +675,7 @@ analytics-*.aasaam.com
 ||collector*.ex.co^
 ||touch.yesim.
 ||v*.sitecounter.site^
+||reachableads-av.*.amazonaws.com^
 ||ads*.opensubtitles.org^
 rgmechanicsgames.com*VPN.exe
 ||23.109.82.
@@ -686,8 +685,9 @@ rgmechanicsgames.com*VPN.exe
 ||rgfftupf.
 @@||cdn*.porn300.com^
 ||gamenguide.com*adbk
+||counter*.stat.ovh^
 ||158.247.208.
-||advert*.livesportmedia.eu^
+||ads.livetv*.me^
 ||142.91.159.
 |167.206.10.148^
 ||23.109.87.
